@@ -1,3 +1,15 @@
+Metadata-Version: 2.1
+Name: package-operations
+Version: 0.0.1
+Summary: Faz somas e subtrações
+Home-page: https://github.com/edithcarollaine/package_operations
+Author: Edith Carollaine
+Author-email: edith.carollaine12@gmail.com
+License: MIT License
+Keywords: Package
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
 # package_operations
 
 ## Getting Started
