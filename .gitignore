@@ -87,10 +87,10 @@ tecido.propriedades
 ### Patch do Intellij ###
 # Motivo do comentário: https://github.com/joeblau/gitignore.io/issues/186#issuecomment-215987721
 
-# *.iml
-# módulos.xml
-# .idea/misc.xml
-# *.ipr
+*.iml
+módulos.xml
+.idea/misc.xml
+*.ipr
 
 # plug-in Sonarlint
 .idea/sonarlint
